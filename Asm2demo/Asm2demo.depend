@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1557390811 source:d:\advanced program\asm2demo\main.cpp
+	<iostream>
+	"Computer.h"
+	"Printer.h"
+	<string>
+
+1557390142 d:\advanced program\asm2demo\include\computer.h
+	"Printer.h"
+	<iostream>
+	<string>
+
+1557390573 d:\advanced program\asm2demo\include\printer.h
+	<iostream>
+	<string>
+
+1557390986 source:d:\advanced program\asm2demo\src\computer.cpp
+	"Computer.h"
+	"Printer.h"
+	<string>
+	<iostream>
+
+1557391418 source:d:\advanced program\asm2demo\src\printer.cpp
+	"Printer.h"
+	<iostream>
+	<string>
+
